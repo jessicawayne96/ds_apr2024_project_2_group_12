@@ -1,0 +1,1 @@
+In this project we converted some rough data into translatable csv files that then helped perform some basic data analysis. We also designed a database and used python code to load the csv files into pgAdmin. From there we performed some queries on our newly transformed data.  
