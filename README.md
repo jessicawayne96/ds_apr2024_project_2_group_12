@@ -2,8 +2,6 @@ For the ETL mini project, you will work with a partner to practice building an E
 
 **Instructions**
 
-The instructions for this mini project are divided into the following subsections:
-
 - Create the ERD Diagram Outlining the Database
 
 - Transform the given two xlsx files into four usable csvs for database import
